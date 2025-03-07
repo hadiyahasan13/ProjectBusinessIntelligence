@@ -1,1 +1,1 @@
-# PrjectBusinessIntelligence
+# ProjectBusinessIntelligence
